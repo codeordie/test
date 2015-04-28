@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
-
+/**
+TODO: add more comments
+*/
 int main(){
 	double sum            = 1.0, val, pval;
 	double denominator    = 3.0;
